@@ -3,6 +3,10 @@ import { Steps } from "home/Steps";
 import { Features } from "home/Features";
 import { Testimonials } from "home/Testimonials";
 import { QuestionsAndAnswers } from "home/QuestionsAndAnswers";
+import {Provider} from "react-redux";
+import {store} from "./lib/redux/store";
+import {ResumeForm} from "./components/ResumeForm";
+import {Resume} from "./components/Resume";
 
 export default function Home() {
   return (
@@ -15,3 +19,4 @@ export default function Home() {
     </main>
   );
 }
+
