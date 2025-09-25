@@ -32,8 +32,7 @@ export const TopNavBar = () => {
           className="flex items-center gap-2 text-sm font-medium"
         >
           {[
-            ["/resume-builder", "Builder"],
-            ["/resume-parser", "Parser"],
+            ["/resume-builder", "生成器"],
           ].map(([href, text]) => (
             <Link
               key={text}
@@ -45,7 +44,7 @@ export const TopNavBar = () => {
           ))}
           <div className="ml-1 mt-1">
             <iframe
-              src="https://ghbtns.com/github-btn.html?user=xitanggg&repo=open-resume&type=star&count=true"
+              src="https://ghbtns.com/github-btn.html?user=geeeeeeeek&repo=open-resume&type=star&count=true"
               width="100"
               height="20"
               className="overflow-hidden border-none"

@@ -9,13 +9,13 @@ import { deepClone } from "lib/deep-clone";
 
 export const END_HOME_RESUME: Resume = {
   profile: {
-    name: "John Doe",
+    name: "Tim Green",
     summary:
       "Software engineer obsessed with building exceptional products that people love",
-    email: "hello@openresume.com",
+    email: "hello@test.com",
     phone: "123-456-7890",
     location: "NYC, NY",
-    url: "linkedin.com/in/john-doe",
+    url: "linkedin.com/in/xxxxx",
   },
   workExperiences: [
     {
