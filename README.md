@@ -17,3 +17,8 @@ npm install
 
 npm run dev
 ```
+
+
+### 视频教程
+
+https://youtu.be/8jb3JP3ha4Y?si=79IDnB82Kr1JkiOP
